@@ -55,6 +55,9 @@ As imagens utilizadas para representar as faixas etárias foram retiradas gratui
 ## 🔗 Acesse o projeto online
 
 👉 [Verificador de Idade - GitHub Pages](https://natipastre.github.io/verificador-idade-javascript/)
+Vídeo 
+📽️ [Clique aqui para ver a demonstração do portfólio](https://drive.google.com/file/d/1KRvK5csyVKinm5n5C9IuH7rLFuX--TCK/view?usp=sharing)
+
 
 ---
 
