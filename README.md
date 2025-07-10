@@ -4,6 +4,8 @@ Este é um projeto de front-end desenvolvido com **HTML5**, **CSS3** e **JavaScr
 
 A aplicação solicita o **ano de nascimento** e o **sexo** do usuário, calcula a idade e exibe uma **mensagem personalizada** com uma **imagem ilustrativa** correspondente à faixa etária detectada (criança, jovem, adulto ou idoso), considerando também o sexo selecionado.
 
+---
+
 ## 🖼️ Imagens
 
 As imagens utilizadas para representar as faixas etárias foram retiradas gratuitamente da biblioteca de fotos do site [Pexels](https://www.pexels.com/pt-br/procurar/fotos%20do%20periodo%20da%20noite/).
@@ -27,31 +29,46 @@ As imagens utilizadas para representar as faixas etárias foram retiradas gratui
 - **CSS3** – Estilização responsiva e moderna  
 - **JavaScript** – Lógica de verificação, manipulação do DOM e interatividade  
 
-💡 O que aprendi com esse projeto
+---
 
-🧠 Conhecimentos técnicos:
- - Uso de condições if, else if e else
- -Manipulação do DOM com getElementById, getElementsByName, createElement, appendChild
-- Validação de campos de entrada
-- Inserção dinâmica de conteúdo na página
-- Estilização com Flexbox e CSS moderno
-- Estruturação semântica com HTML5
-- Publicação no GitHub Pages
+## 💡 O que aprendi com esse projeto
 
-🤝 Soft Skills:
-- Organização e clareza na estrutura do código
-- Atenção aos detalhes na validação dos dados e feedback ao usuário
-- Autonomia para pesquisar e aplicar imagens com uso livre (Pexels)
-- Persistência e resolução de problemas
-- Comunicação clara com foco no usuário
-- Apresentação de um projeto funcional para portfólio
+### 🧠 Conhecimentos técnicos:
+- Uso de condições `if`, `else if` e `else`  
+- Manipulação do DOM com `getElementById`, `getElementsByName`, `createElement`, `appendChild`  
+- Validação de campos de entrada  
+- Inserção dinâmica de conteúdo na página  
+- Estilização com Flexbox e CSS moderno  
+- Estruturação semântica com HTML5  
+- Publicação no GitHub Pages  
+
+### 🤝 Soft Skills:
+- Organização e clareza na estrutura do código  
+- Atenção aos detalhes na validação dos dados e feedback ao usuário  
+- Autonomia para pesquisar e aplicar imagens com uso livre (Pexels)  
+- Persistência e resolução de problemas  
+- Comunicação clara com foco no usuário  
+- Apresentação de um projeto funcional para portfólio  
 
 ---
-🔗 **Acesse o projeto online:**  
+
+## 🔗 Acesse o projeto online
+
 👉 [Verificador de Idade - GitHub Pages](https://natipastre.github.io/verificador-idade-javascript/)
+
+---
+
+## 👩‍💻 Autora
+
+Desenvolvido com 💙 por **Natália Pastre**  
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/)  
+- 💌 [natalia.pastre@yahoo.com.br](mailto:natalia.pastre@yahoo.com.br)  
+
+
 ---
 
 
-👩‍💻 Autora
-Desenvolvido com 💙 por Natália Pastre
+
 
