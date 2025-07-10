@@ -1,76 +1,66 @@
-# 🧠 Verificador de Idade
+🧠 Verificador de Idade
+Projeto front-end desenvolvido com HTML5, CSS3 e JavaScript, com o objetivo de praticar manipulação do DOM, lógica de programação e interatividade em páginas web.
 
-Este é um projeto de front-end desenvolvido com **HTML5**, **CSS3** e **JavaScript**, com o objetivo de praticar a manipulação do DOM, lógica de programação e interatividade em páginas web.
+A aplicação solicita o ano de nascimento e o sexo do usuário, calcula a idade e exibe uma mensagem personalizada com uma imagem ilustrativa correspondente à faixa etária detectada (criança, jovem, adulto ou idoso), considerando também o sexo informado.
 
-A aplicação solicita o **ano de nascimento** e o **sexo** do usuário, calcula a idade e exibe uma **mensagem personalizada** com uma **imagem ilustrativa** correspondente à faixa etária detectada (criança, jovem, adulto ou idoso), considerando também o sexo selecionado.
+📸 Demonstração
 
----
+📽️ Clique aqui para ver a demonstração do projeto em vídeo
 
-## 🖼️ Imagens
+✨ Funcionalidades
+✅ Validação do ano de nascimento
 
-As imagens utilizadas para representar as faixas etárias foram retiradas gratuitamente da biblioteca de fotos do site [Pexels](https://www.pexels.com/pt-br/procurar/fotos%20do%20periodo%20da%20noite/).
+✅ Cálculo automático da idade com base no ano atual
 
----
+✅ Identificação do sexo selecionado
 
-## ✨ Funcionalidades
+✅ Exibição de imagem correspondente à idade e sexo
 
-- ✅ Validação do ano de nascimento  
-- ✅ Cálculo automático da idade com base no ano atual  
-- ✅ Identificação do sexo selecionado  
-- ✅ Exibição de imagem correspondente à idade e sexo  
-- ✅ Design moderno, leve e responsivo  
-- ✅ Interação dinâmica com o usuário (sem recarregar a página)  
+✅ Design moderno, leve e responsivo
 
----
+✅ Interatividade em tempo real (sem recarregar a página)
 
-## 🧰 Tecnologias Utilizadas
+🖼️ Imagens Utilizadas
+As imagens que representam as faixas etárias foram obtidas gratuitamente na biblioteca do Pexels.
 
-- **HTML5** – Estrutura da página  
-- **CSS3** – Estilização responsiva e moderna  
-- **JavaScript** – Lógica de verificação, manipulação do DOM e interatividade  
+🧰 Tecnologias Utilizadas
+HTML5 – Estrutura da página
 
----
+CSS3 – Estilização moderna e responsiva com Flexbox
 
-## 💡 O que aprendi com esse projeto
+JavaScript – Lógica de verificação, manipulação do DOM e interação com o usuário
 
-### 🧠 Conhecimentos técnicos:
-- Uso de condições `if`, `else if` e `else`  
-- Manipulação do DOM com `getElementById`, `getElementsByName`, `createElement`, `appendChild`  
-- Validação de campos de entrada  
-- Inserção dinâmica de conteúdo na página  
-- Estilização com Flexbox e CSS moderno  
-- Estruturação semântica com HTML5  
-- Publicação no GitHub Pages  
+💡 Aprendizados
+🧠 Conhecimentos Técnicos
+Estruturação com HTML semântico
 
-### 🤝 Soft Skills:
-- Organização e clareza na estrutura do código  
-- Atenção aos detalhes na validação dos dados e feedback ao usuário  
-- Autonomia para pesquisar e aplicar imagens com uso livre (Pexels)  
-- Persistência e resolução de problemas  
-- Comunicação clara com foco no usuário  
-- Apresentação de um projeto funcional para portfólio  
+Estilização com Flexbox
 
----
+Manipulação do DOM (getElementById, getElementsByName, createElement, appendChild)
 
-## 🔗 Acesse o projeto online
+Validação de entradas
 
-👉 [Verificador de Idade - GitHub Pages](https://natipastre.github.io/verificador-idade-javascript/)
-Vídeo 
-📽️ [Clique aqui para ver a demonstração do portfólio](https://drive.google.com/file/d/1KRvK5csyVKinm5n5C9IuH7rLFuX--TCK/view?usp=sharing)
+Condicionais if, else if, else
 
+Inserção dinâmica de conteúdo
 
----
+Publicação no GitHub Pages
 
-## 👩‍💻 Autora
+🤝 Soft Skills
+Organização e clareza na escrita do código
 
-Desenvolvido com 💙 por **Natália Pastre**  
-Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
+Atenção a detalhes na validação e experiência do usuário
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/)  
-- 💌 [natalia.pastre@yahoo.com.br](mailto:natalia.pastre@yahoo.com.br)  
+Autonomia para buscar imagens com uso livre (Pexels)
 
+Resolução de problemas com persistência
 
----
+Comunicação visual e textual clara
+
+Apresentação de um projeto funcional para o portfólio
+
+🔗 Acesse o Projeto Online
+👉 Verificador de Idade no GitHub Pages
 
 
 
